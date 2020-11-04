@@ -1,0 +1,39 @@
+{
+    "artists": [
+        {
+            "name": "Avicii",
+            "country": "Sweden",
+            "genre": "House", 
+            "lyric": "Heeeey brotherr",
+            "image": "/resources/avicii.jpg"
+        },
+        {
+            "name": "Kygo",
+            "country": "Norway",
+            "genre": "House", 
+            "lyric": "Who's gonna walk you through the dark side of the morning",
+            "image": "/resources/kygo.jpg"
+        },
+        {
+            "name": "Post Malone",
+            "country": "USA",
+            "genre": "Rap", 
+            "lyric": "feelin' like a Rockstar",
+            "image": "/resources/postmalone.jpg"
+        },
+        {
+            "name": "Ed Sheeran",
+            "country": "England",
+            "genre": "Acoustic pop", 
+            "lyric": "I see fire!",
+            "image": "/resources/edsheeran.jpg"
+        },
+        {
+            "name": "Sam Smith",
+            "country": "England",
+            "genre": "R&B", 
+            "lyric": "I know I'm not the only one",
+            "image": "/resources/samsmith.jpg"
+        }
+    ]
+}
